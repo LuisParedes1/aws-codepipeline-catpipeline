@@ -3,7 +3,7 @@ AWS CodePipeline advance demo.
 
 In this demo series you're going to be implementing a full code pipeline incorportating commit, build and deploy steps.
 
-The advanced demo consists of 5 stages :-
+The advanced demo consists of 5 stages :
 
 * STAGE 1 : Configure Security & Create a Github Repo
 * STAGE 2 : Configure CodeBuild to clone the repo, create a container image and store on ECR
