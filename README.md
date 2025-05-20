@@ -16,9 +16,9 @@ The advanced demo consists of 5 stages:
 
 # Video Guides
 
-- [Stage0](https://www.youtube.com/watch?v=MDMH_XXDbrI&t=0s) - INTRO ✅
-- [Stage1](https://www.youtube.com/watch?v=MDMH_XXDbrI&t=133s) ✅
-- [Stage2](https://www.youtube.com/watch?v=MDMH_XXDbrI&t=871s) ✅
+- [Stage0](https://www.youtube.com/watch?v=MDMH_XXDbrI&t=0s) - INTRO
+- [Stage1](https://www.youtube.com/watch?v=MDMH_XXDbrI&t=133s)
+- [Stage2](https://www.youtube.com/watch?v=MDMH_XXDbrI&t=871s)
 - [Stage3](https://www.youtube.com/watch?v=MDMH_XXDbrI&t=2556s)
 - [Stage4](https://www.youtube.com/watch?v=MDMH_XXDbrI&t=3478s)
 - [Stage5](https://www.youtube.com/watch?v=MDMH_XXDbrI&t=4594s)
