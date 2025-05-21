@@ -1,5 +1,5 @@
 # Advanced Demo - CodePipeline
-AWS CodePipeline advance demo. 
+[AWS CodePipeline](https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html) advance demo. 
 
 In this demo series you're going to be implementing a full code pipeline incorportating commit, build and deploy steps.
 
@@ -13,6 +13,18 @@ The advanced demo consists of 5 stages:
 
 ![image](https://github.com/user-attachments/assets/9d30f1a4-784e-437e-ae6d-eb9f48f93933)
 
+
+# Running Locally
+
+The application is just an HTML file with some cat images. You can open the [index.html](./index.html) file in a browser.
+
+To test locally what [AWS CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html) builds, run the Dockerfile with
+
+```
+docker build -t containercats . && docker run -p 8080:80 containercats
+```
+
+and then go to `localhost:8080`
 
 # Video Guides
 
